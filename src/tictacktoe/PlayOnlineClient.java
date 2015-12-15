@@ -43,6 +43,8 @@ import java.util.logging.Logger;
 /**
  *
  * @author Shaheed Ahmed Dewan Sagar
+ *         sdewan64@gmail.com
+ *         AUST-12-01-04-085
  */
 public class PlayOnlineClient extends javax.swing.JFrame {
 
